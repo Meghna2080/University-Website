@@ -8,3 +8,4 @@ It has the following web pages:
 - Faculty and Staff Information that opens up the departments page of Panjab University
 
 The data used is that from Panjab University website.
+You can have a look at it here: [University Website](https://meghna2080.github.io/University-Website/)
